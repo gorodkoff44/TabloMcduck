@@ -37,6 +37,11 @@ namespace Табло_Макдак
         }
         private void Button_Click(object sender, RoutedEventArgs e)
         {
+            if (i>=100)
+            {
+                MessageBox.Show("Очистите табло");
+                return;
+            }
             if (textBox1.Text.Length > 0) //проверка на пустое поле
             {
                 i++;
@@ -69,13 +74,18 @@ namespace Табло_Макдак
         }
         private void Button_Click3(object sender, RoutedEventArgs e) //Очистить табло
         {
-            for (int j = 0; j <= i; j++) //вывод заказов на экран
+            for (int j = 0; j <= i; j++) //очистка массива
             {
                 Tablo.Content = "";
                 a[j] = "";
                 i = 0;
             }
+            textBox1.Text = "";
+        }
+        private void Button_Click4(object sender, RoutedEventArgs e) //Закрыть
+        {
+            Close();
         }
 
-    }
+        }
 }
