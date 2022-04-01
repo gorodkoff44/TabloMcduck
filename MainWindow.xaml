@@ -5,15 +5,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Табло_Макдак"
         mc:Ignorable="d"
-        Title="MainWindow" SizeToContent="WidthAndHeight"
+        Title="MainWindow" Width="900" Height="500"
         WindowStartupLocation="CenterScreen"
         ResizeMode="CanMinimize">
     <Grid>
-        <Label Name="Tablo" Content="Табло заказов" Margin="10,10,28,136" FontSize="40" />
-        <TextBox x:Name="textBox1" Height="100" Margin="195,288,201,31" TextWrapping="NoWrap" />
-        <Button Name="Zak" Content="Сделать заказ" Width="150" Height="50" Margin="614,288,28,81" Background="DarkGreen" Foreground="White" Button.Click="Button_Click"/>
-        <Button Name="Del" Content="Удалить" Width="150" Height="50" Margin="614,343,28,26" Background="LightPink" Button.Click="Button_Click2"/>
-        <Button Name="Cln" Content="Очистить" Width="70" Height="30" Margin="694,10,28,379" Background="Red" Foreground="White" Button.Click="Button_Click3"/>
-        <Button Name="Clos" Content="Закрыть" Background="Red" Foreground="White" Button.Click="Button_Click4" Margin="45,308,648,51"/>
+        <Label Name="Tablo" Content="Табло заказов" Margin="39,10,245,188" FontSize="40" />
+        <TextBox x:Name="textBox1" Margin="195,289,245,74" TextWrapping="NoWrap" MaxLength="5" />
+        <Button Name="Zak" Content="Сделать заказ" Margin="665,284,109,138" Background="DarkGreen" Foreground="White" Button.Click="Button_Click"/>
+        <Button Name="Del" Content="Удалить" Margin="665,353,109,74" Background="LightPink" Button.Click="Button_Click2"/>
+        <Button Name="Cln" Content="Очистить" Margin="696,31,109,397" Background="Red" Foreground="White" Button.Click="Button_Click3"/>
+        <Button Name="Clos" Content="Закрыть" Background="Red" Foreground="White" Button.Click="Button_Click4" Margin="39,315,728,106"/>
     </Grid>
 </Window>

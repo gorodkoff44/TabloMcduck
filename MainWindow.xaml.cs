@@ -37,7 +37,7 @@ namespace Табло_Макдак
         }
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            if (i>=100)
+            if (i>=99)
             {
                 MessageBox.Show("Очистите табло");
                 return;
