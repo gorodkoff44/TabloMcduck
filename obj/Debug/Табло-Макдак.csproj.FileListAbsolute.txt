@@ -1,0 +1,15 @@
+C:\Users\Comp0707\Desktop\mac\Табло-Макдак\bin\Debug\Табло-Макдак.exe.config
+C:\Users\Comp0707\Desktop\mac\Табло-Макдак\bin\Debug\Табло-Макдак.exe
+C:\Users\Comp0707\Desktop\mac\Табло-Макдак\bin\Debug\Табло-Макдак.pdb
+C:\Users\Comp0707\Desktop\mac\Табло-Макдак\obj\Debug\Табло-Макдак.csprojAssemblyReference.cache
+C:\Users\Comp0707\Desktop\mac\Табло-Макдак\obj\Debug\MainWindow.g.cs
+C:\Users\Comp0707\Desktop\mac\Табло-Макдак\obj\Debug\App.g.cs
+C:\Users\Comp0707\Desktop\mac\Табло-Макдак\obj\Debug\Табло-Макдак_MarkupCompile.cache
+C:\Users\Comp0707\Desktop\mac\Табло-Макдак\obj\Debug\Табло-Макдак_MarkupCompile.lref
+C:\Users\Comp0707\Desktop\mac\Табло-Макдак\obj\Debug\MainWindow.baml
+C:\Users\Comp0707\Desktop\mac\Табло-Макдак\obj\Debug\Табло-Макдак.g.resources
+C:\Users\Comp0707\Desktop\mac\Табло-Макдак\obj\Debug\Табло_Макдак.Properties.Resources.resources
+C:\Users\Comp0707\Desktop\mac\Табло-Макдак\obj\Debug\Табло-Макдак.csproj.GenerateResource.cache
+C:\Users\Comp0707\Desktop\mac\Табло-Макдак\obj\Debug\Табло-Макдак.csproj.CoreCompileInputs.cache
+C:\Users\Comp0707\Desktop\mac\Табло-Макдак\obj\Debug\Табло-Макдак.exe
+C:\Users\Comp0707\Desktop\mac\Табло-Макдак\obj\Debug\Табло-Макдак.pdb
